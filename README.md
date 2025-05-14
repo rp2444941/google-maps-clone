@@ -15,7 +15,7 @@ An interactive map clone built using **Leaflet.js** and **OpenStreetMap**. This 
 
 ## 📸 Demo
 
-[Live Demo](https://rp2444941.github.io/google-maps-clone) <!-- Optional: activate GitHub Pages -->
+[Live Demo](http://127.0.0.1:5500/index.html) <!-- Optional: activate GitHub Pages -->
 
 ---
 
